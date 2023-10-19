@@ -1,5 +1,3 @@
-# gui_svm_auto_tuning
-
 # SVM Hyperparameter Tuner
 
 This Python script provides a graphical user interface (GUI) for hyperparameter tuning of Support Vector Machines (SVM) using Bayesian optimization. It includes features for data preprocessing, feature selection, and model evaluation.
